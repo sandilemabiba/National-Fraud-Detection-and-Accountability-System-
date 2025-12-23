@@ -34,7 +34,7 @@ CORE LAYERS:
 These technologies are presented as representative components illustrating how the system could be implemented at scale; they are not claims of a fully deployed production system.
 
 # Integration and Use Cases:
-1. Universities  - secure academic and financial data
+1. Universities - secure academic and financial data
 2. Hospitals - Real-time procurement audit
 3. SOEs- National treasury fraud prevention
 
