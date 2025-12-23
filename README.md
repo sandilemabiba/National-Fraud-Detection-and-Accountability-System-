@@ -7,7 +7,7 @@ NFDAS is a conceptual fraud detection system designed to demonstrate rule-based 
 # Problem Statement:
 Cyber attackers, attack sensitive data, example Wits University. The Tembisa Hospital R2 billion scam. Root cause ? Fragmented systems, power endpoint visibility, no unified audit trail.
 
-#Introducing NFDAS 
+# Introducing NFDAS 
 1. AI-powered anomaly detection. 
 2. Secure data auditing.
 3. BlockChain based traceability
@@ -53,5 +53,5 @@ These technologies are presented as representative components illustrating how t
  1. Algorithms: Isolation Forests, Bayesian Inference, Blockchain audit trails
  2. Security: AES-256 encryption,TPM attestation, Zero Trust Access
 
-#NFDAS Code snippets 
+# NFDAS Code snippets 
 Core implementation and detection logic are intentionally excluded from this repository to prevent misuse and protect system integrity. This repository intentionally focuses on system design and architecture. Implementation details are withheld due to security and IP considerations 
