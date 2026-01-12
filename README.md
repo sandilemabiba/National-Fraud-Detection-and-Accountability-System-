@@ -1,5 +1,7 @@
 This project is licensed under the GNU General Public License v3.0.
 Prior to the inclusion of the LICENSE file, no license was granted for reuse, redistribution, or deployment.
+NFDAS is published for academic and evaluation purposes.
+Any production, commercial, or governmental deployment requires written authorization from the author.
 
 # National-Fraud-Detection-and-Accountability-System-
 A rule-based fraud detection system designed using computer science principles.
