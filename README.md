@@ -30,6 +30,7 @@ CORE LAYERS:
 
 6. # NFDAS Data Flow Diagram
 7. ![1000105516](https://github.com/user-attachments/assets/b9ba3c31-bad6-4392-af25-94284654ee8b)
+8. Figure 1: NFDAS secure data flow showing ingestion, validation, immutable storage, and audit layers
 
 
 # Technical Features:
