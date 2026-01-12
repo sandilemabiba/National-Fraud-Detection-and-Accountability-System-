@@ -28,6 +28,10 @@ CORE LAYERS:
 4. Security Layer: TPM, anomaly monitors
 5. Response Layer: Dashboard + Alerts
 
+6. # NFDAS Data Flow Diagram
+7. ![1000105516](https://github.com/user-attachments/assets/b9ba3c31-bad6-4392-af25-94284654ee8b)
+
+
 # Technical Features:
 1. Kafka - real-time data ingestion
 2. PostgreSQL - secure encrypted logging
