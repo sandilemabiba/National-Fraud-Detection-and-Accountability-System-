@@ -55,3 +55,6 @@ These technologies are presented as representative components illustrating how t
 
 # NFDAS Code snippets 
 Core implementation and detection logic are intentionally excluded from this repository to prevent misuse and protect system integrity. This repository intentionally focuses on system design and architecture. Implementation details are withheld due to security and IP considerations 
+
+
+# By ST Mabiba
